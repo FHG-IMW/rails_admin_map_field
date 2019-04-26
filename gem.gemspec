@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
 
 
   s.name              = "rails_admin_map_field"
-  s.version           = "0.0.2"
+  s.version           = "0.0.2.moez"
   s.platform          = Gem::Platform::RUBY
   s.authors           = ["Jason Langenauer","Jules Laplace"]
   s.email             = ["jason@jasonlangenauer.com","jules@okfoc.us"]
